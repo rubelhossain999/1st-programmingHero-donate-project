@@ -163,4 +163,57 @@ p.donate-plan-desc {
     font-family: 'Poppins';
     margin-bottom: 35px;
 }
+/* Blog Section */
 
+.blog-section-top {
+    display: flex;
+    margin-top: 80px;
+}
+.blog-top-text h2 {
+    font-size: 45px;
+    color: #121212;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.blog-top-text p {
+    font-size: 18px;
+    color: #707070;
+    line-height: 25px;
+    font-family: 'Poppins';
+    padding: 15px 0;
+    width: 90%;
+}
+.blog-top-text.bottom {
+    margin-left: 200px;
+}
+/* update section */
+.update-section {
+    width: 60%;
+}
+.subscribe {
+    text-align: center;
+    background: #FFF4D6;
+    padding: 75px 0;
+    margin: 35px;
+}
+input.sub-btn {
+    background: #FF5959;
+    border: none;
+    padding: 12px 22px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 0 10px 10px 0px;
+    position: absolute;
+}
+input.sub-field {
+    border: navajowhite;
+    padding: 12px 22px;
+    background: #D9D9D9;
+    font-size: 16px;
+    border-radius: 10px 0px 0px 10px;
+    outline: none;
+    width: 20%;
+    position: relative;
+}
