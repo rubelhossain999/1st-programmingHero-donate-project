@@ -217,3 +217,22 @@ input.sub-field {
     width: 20%;
     position: relative;
 }
+/* footer Section */
+.footer-section {
+    text-align: center;
+}
+
+section.footer {
+    background: #222;
+    padding: 60px 0;
+}
+.footer-content h6 {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 200;
+}
+.footer-content h6 a {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
