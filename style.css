@@ -122,3 +122,45 @@ a.active {
     text-align: center;
     outline: none;
 }
+/* Donate plan section */
+.single-donate-plan {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.one-donate-plan {
+    width: 100%;
+    background-color: #4f9da63d;
+    padding: 20px 25px;
+    border-radius: 5px;
+    padding-top: 50px;
+}
+.two-donate-plan {
+    width: 100%;
+    background: #ff595924;
+    padding: 20px 25px;
+    margin: 50px;
+    border-radius: 5px;
+    padding-top: 50px;
+}
+.three-donate-plan {
+    width: 100%;
+    background: #fff4d6d1;
+    padding: 20px 25px;
+    border-radius: 5px;
+    padding-top: 50px;
+}
+h3.donate-plan-title {
+    font-size: 24px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    padding: 10px 0;
+    color: #121212;
+}
+p.donate-plan-desc {
+    font-size: 16px;
+    color: #707070;
+    font-family: 'Poppins';
+    margin-bottom: 35px;
+}
+
