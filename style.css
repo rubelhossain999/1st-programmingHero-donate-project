@@ -195,6 +195,7 @@ p.donate-plan-desc {
     background: #FFF4D6;
     padding: 75px 0;
     margin: 35px;
+    margin-bottom: 100px;
 }
 input.sub-btn {
     background: #FF5959;
@@ -235,4 +236,71 @@ section.footer {
     color: #fff;
     text-decoration: none;
     cursor: pointer;
+}
+/* what we do Section */
+section.what_we_do {
+    background-color: #ffe7e7ad;
+    padding: 65px 0;
+}
+.what-we {
+    display: flex;
+}
+.what-we-count {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+section.what_we_do {
+    background-color: #ffe7e7ad;
+    padding: 100px 0;
+    margin: 70px 0px;
+}
+.what-we-text h2 {
+    font-size: 45px;
+    color: #121212;
+    padding: 20px 0px;
+    font-weight: 300;
+}
+.what-we-text span {
+    font-weight: 700;
+}
+.what-we-text {
+    width: 60%;
+    margin-right: 100px;
+}
+.what-we-text p {
+    font-size: 18px;
+    color: #707070;
+    font-family: 'Poppins';
+    margin-bottom: 25px;
+}
+p.mb {
+    margin-bottom: 0;
+}
+.what-we-count {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 40%;
+}
+.count {
+    margin-left: 25px;
+}
+.help h2 {
+    font-size: 45px;
+    font-family: 'Inter';
+    font-weight: 800;
+}
+.count h2 {
+    font-size: 45px;
+    font-family: 'Inter';
+    font-weight: 800;
+}
+.help p {
+    font-size: 17px;
+    font-weight: 700;
+}
+.count p {
+    font-size: 17px;
+    font-weight: 700;
 }
